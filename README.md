@@ -1,4 +1,3 @@
-```Markdown
 # 🧠 Wade Erickson's AI Agent Portfolio
 
 Welcome to my collection of AI-powered solutions designed to streamline business processes and enhance productivity. As an Executive Software Delivery and Sales Enablement Leader with 20+ years of experience, I've developed these practical AI agents to solve real-world challenges in professional communication, content creation, and information processing.
@@ -77,4 +76,3 @@ Ready to explore how AI agents can transform your business processes? I'm here t
 - **Digital transformation consulting**
 
 [📬 Contact me](mailto:wade@example.com) or [Connect on LinkedIn](https://www.linkedin.com/in/werickson)
-```
